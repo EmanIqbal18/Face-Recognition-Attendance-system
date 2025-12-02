@@ -25,7 +25,7 @@ the current date.
 ## Project Link
 
 GitHub Repository:
-https://github.com/Sta981/Face_Recognition_Attendance_Systtem.git
+https://github.com/EmanIqbal18/Face-Recognition-Attendance-system
 
 ## How It Works
 
